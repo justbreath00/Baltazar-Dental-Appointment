@@ -225,7 +225,7 @@ This repository serves as a **portfolio case study**, showcasing the project's p
 
 The source code for this project is proprietary and is **not licensed for redistribution or reuse**.
 
-All screenshots, documentation, and other portfolio materials remain © 2026 Renier Jhon.
+All screenshots, documentation, and other portfolio materials remain © 2026 Renier Tambogon.
 
 ---
 
